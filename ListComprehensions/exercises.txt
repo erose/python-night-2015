@@ -1,0 +1,3 @@
+Write these list comprehensions:
+
+    1) 
